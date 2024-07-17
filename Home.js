@@ -1,15 +1,14 @@
 
 const images = [
-    { src: "images/sample.jpeg", title: "Title 1" },
-    { src: "images/sample.jpeg", title: "Title 2" },
-    { src: "images/sample.jpeg", title: "Title 3" },
+    { src: "images/mlp.jpg", title: "Unicorn" },
+    { src: "images/mlp2.jpg", title: "My Little Pony" },
+    { src: "images/s1.jpg", title: "Cat Watching the Sun " },
     // Add new images and titles here
-    { src: "images/sample.jpeg", title: "Title 4" },
-    { src: "images/sample.jpeg", title: "Title 5" },
-    { src: "images/sample.jpeg", title: "Title 5" },
-    { src: "images/sample.jpeg", title: "Title 5" },
-    { src: "images/sample.jpeg", title: "Title 5" },
-    { src: "images/sample.jpeg", title: "Title 5" }
+    { src: "images/s2.jpg", title: "House Landscape Scenery" },
+    { src: "images/s3.jpg", title: "Hand" },
+    { src: "images/scenery.jpg", title: "Scenery Painting" },
+    { src: "images/zalmi.jpg", title: "Zalmi Logo" },
+    { src: "images/s4.jpg", title: "Mountain Scenery" }
 ];
 
 const galleryGrid = document.querySelector('.gallery-grid');
