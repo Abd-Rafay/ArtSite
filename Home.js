@@ -8,6 +8,13 @@ const images = [
     { src: "images/s3.jpg", title: "Hand" },
     { src: "images/scenery.jpg", title: "Scenery Painting" },
     { src: "images/zalmi.jpg", title: "Zalmi Logo" },
+    { src: "images/girl.jpg", title: "Girl flying Butterflies" },
+    { src: "images/sun.jpg", title: "Sunset" },
+    { src: "images/sunflower.jpg", title: "A Sunflower" },
+    { src: "images/autumn.jpg", title: "Autumn" },
+    { src: "images/seasons.jpg", title: "Beauty of all Seasons" },
+    { src: "images/sunset.jpg", title: "Sunset from the sea" },
+    { src: "images/window.jpg", title: "A Beautiful Window" },
     { src: "images/s4.jpg", title: "Mountain Scenery" }
 ];
 
